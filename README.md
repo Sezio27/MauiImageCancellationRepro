@@ -1,6 +1,6 @@
 # MAUI image cancellation reproduction
 
-Small iOS-only .NET 10 / MAUI 10.0.50 sample: one button and a list of remote images. No custom image handlers, workaround, local server, or Sentry.
+Small iOS-only .NET 10 / MAUI 10.0.110 sample: one button and a list of remote images. No custom image handlers, workaround, local server, or Sentry.
 
 ## Run
 
