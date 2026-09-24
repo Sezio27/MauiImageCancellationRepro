@@ -53,7 +53,7 @@ public sealed class ReproPage : ContentPage
         }
 
         imageList.ItemsSource = items;
-        Debug.WriteLine("Loaded 100 images. Scroll quickly to the bottom.");
+        Debug.WriteLine("Loaded 100 images.");
     }
 
     private static ViewCell CreateImageCell()
