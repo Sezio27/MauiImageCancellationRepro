@@ -2,7 +2,7 @@
 
 Reproduces an iOS image-loading error with `ListView.HasUnevenRows = true`.
 
-Confirmed on an iOS simulator with MAUI **10.0.110** and **10.0````markdown
+Confirmed on an iOS simulator with MAUI **10.0.110**
 # MAUI ListView image-loading repro
 
 Reproduces `PlatformView cannot be null here` when loading remote images in an iOS `ListView` with `HasUnevenRows = true`.
